@@ -23,11 +23,13 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 - Deployed link here 
 
 ## General
+For this challenge, I was tasked with creating an application called Note Taker that can be used to write and save notes. The app uses an Express.js back end and will save and retrieve user generated note data from a JSON file.
+
+The application’s front end has already been created. It's my job to build the back end, connect the two, and then deploy the finished application to Heroku.
 
 ## Screenshots 
-image here
-
-
+![Homescreen](./Develop/public/assets/images/11-express-homework-demo-01.png)
+![Notes page](./Develop/public/assets/images/11-express-homework-demo-02.png)
 
 
 ## Acceptance Criteria
@@ -48,7 +50,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## License 
-APACHE 2.0
+MIT
 
 ## Status
 This project is incomplete as of March 12th
@@ -62,4 +64,4 @@ This project is incomplete as of March 12th
  
 ## Inspiration
 - GA Tech Bootcamp Homework 11 
-- Personal Color Preferences
+
