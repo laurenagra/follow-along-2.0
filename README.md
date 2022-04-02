@@ -28,8 +28,8 @@ For this challenge, I was tasked with creating an application called Note Taker 
 The application’s front end has already been created. It's my job to build the back end, connect the two, and then deploy the finished application to Heroku.
 
 ## Screenshots 
-![Homescreen](./Develop/public/assets/images/11-express-homework-demo-01.png)
-![Notes page](./Develop/public/assets/images/11-express-homework-demo-02.png)
+![Homescreen](./public/assets/images/11-express-homework-demo-01.png)
+![Notes page](./public/assets/images/11-express-homework-demo-02.png)
 
 
 ## Acceptance Criteria
