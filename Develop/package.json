@@ -1,11 +1,16 @@
 {
-  "name": "note-taker",
+  "name": "follow-along-2.0",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "```\r AS A small business owner\r I WANT to be able to write and save notes\r SO THAT I can organize my thoughts and keep track of tasks I need to complete\r ```",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurenagra/follow-along-2.0.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -13,5 +18,9 @@
     "joi": "^17.6.0",
     "path": "^0.12.7",
     "uuid": "^8.3.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/laurenagra/follow-along-2.0/issues"
+  },
+  "homepage": "https://github.com/laurenagra/follow-along-2.0#readme"
 }
